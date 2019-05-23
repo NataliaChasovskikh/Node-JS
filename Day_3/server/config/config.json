@@ -1,0 +1,4 @@
+{
+   "PORT": "process.env.PORT || 3001",
+   "db": "mongodb://bc7:123qwe@ds241489.mlab.com:41489/test_base"
+}
